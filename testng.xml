@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="EDM Web Automation">
+
+	<listeners>
+		<listener class-name="qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners> 
+
+
+
+		<!-- Test cases for EDM Entities  -->
+	<!--<test name="Login Test Cases">
+		<classes>
+			<class name="qa.testcases.LoginPageTest"></class> 
+		</classes>
+	</test> -->
+	 <test name="Product Test Cases">
+		<classes>
+			<class name="qa.testcases.Product_Test"></class> 
+		</classes>
+	</test> 
+	
+	 <test name="Personnel Test Cases">
+		<classes>
+			<class name="qa.testcases.Personnel_Test"></class> 
+		</classes>
+	</test> 
+	 <test name="Location Test Cases">
+		<classes>
+			<class name="qa.testcases.Location_Test"></class> 
+		</classes>
+	</test> 
+	<test name="Mapping Test Cases">
+		<classes>
+			<class name="qa.testcases.Mapping_Test"></class> 
+		</classes>
+	</test> 
+	<test name="Network Test Cases">
+		<classes>
+			<class name="qa.testcases.Network_Test"></class> 
+		</classes>
+	</test> 
+	<test name="Currency Test Cases">
+		<classes>
+			<class name="qa.testcases.Currency_Test"></class> 
+		</classes>
+	</test> 
+	
+	
+	
+	
+	
+		
+		
+	
+	
+</suite>

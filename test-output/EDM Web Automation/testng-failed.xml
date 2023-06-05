@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [EDM Web Automation]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Personnel Test Cases(failed)">
+    <classes>
+      <class name="qa.testcases.Personnel_Test">
+        <methods>
+          <include name="csvUploadAndDownload"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- qa.testcases.Personnel_Test -->
+    </classes>
+  </test> <!-- Personnel Test Cases(failed) -->
+  <test thread-count="5" name="Mapping Test Cases(failed)">
+    <classes>
+      <class name="qa.testcases.Mapping_Test">
+        <methods>
+          <include name="csvUploadAndDownload"/>
+          <include name="verifyDropDownMenuNavigation"/>
+          <include name="csvDownloadTemplate"/>
+          <include name="setUp"/>
+          <include name="verifypagination"/>
+          <include name="verifyDropDownTable"/>
+          <include name="tearDown"/>
+          <include name="verifySearchFeature"/>
+        </methods>
+      </class> <!-- qa.testcases.Mapping_Test -->
+    </classes>
+  </test> <!-- Mapping Test Cases(failed) -->
+  <test thread-count="5" name="Network Test Cases(failed)">
+    <classes>
+      <class name="qa.testcases.Network_Test">
+        <methods>
+          <include name="csvDownloadTemplate"/>
+          <include name="csvUploadAndDownload"/>
+          <include name="verifyDropDownMenuNavigation"/>
+          <include name="tearDown"/>
+          <include name="verifySearchFeature"/>
+          <include name="setUp"/>
+          <include name="verifyDropDownTable"/>
+        </methods>
+      </class> <!-- qa.testcases.Network_Test -->
+    </classes>
+  </test> <!-- Network Test Cases(failed) -->
+  <test thread-count="5" name="Currency Test Cases(failed)">
+    <classes>
+      <class name="qa.testcases.Currency_Test">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyDropDownMenuNavigation"/>
+          <include name="verifyDropDownTable"/>
+          <include name="csvDownloadTemplate"/>
+          <include name="setUp"/>
+          <include name="verifySearchFeature"/>
+        </methods>
+      </class> <!-- qa.testcases.Currency_Test -->
+    </classes>
+  </test> <!-- Currency Test Cases(failed) -->
+</suite> <!-- Failed suite [EDM Web Automation] -->

@@ -1,0 +1,11 @@
+Node Code,Node,Description,Address Line 1,Address Line 2,Activity,Address Id,Latitude,Longitude,Pincode,Node Type Code,Node Type Title,Capacity Manufacturing UOM,Manufacturing Capacity,Manufacturing Operating Hours Shift,Manufacturing Shifts Per Day,Manufacturing Shift Day,Capacity Warehouse UOM,Capacity Warehouse Unit,Warehouse Shift Per Day,Warehouse Operating Hours Shift,Warehouse Shift Days,Node Lifecycle Status,Node Lifecycle Start Date,Node Lifecycle End Date,Node Lifecycle Sunset Date,Territory,City,State,Country
+NOC1,Node1,D1,AD1,AD1,21,44,2345,324,23434,DC,DC,C10,23,3213,23,213,C10,234,123,43,123,TRUE,2023-05-01,2023-05-02,2024-11-03,Territory1,City 1,State 1,Country1
+NOC2,Node2,D2,AD2,AD2,22,45,2345,324,23434,DC,DC,C11,23,3213,23,213,C11,234,123,43,123,TRUE,2023-05-02,2023-05-03,2024-11-04,Territory2,City 2,State 2,Country2
+NOC3,Node3,D3,AD3,AD3,14,37,2345,324,23434,RT,RETAIL,C3,23,3213,23,213,C3,234,123,43,123,TRUE,2023-05-03,2023-05-04,2024-11-05,Territory3,City 3,State 3,Country3
+NOC4,Node4,D4,AD4,AD4,16,39,2345,324,23434,RT,RETAIL,C5,23,3213,23,213,C5,234,123,43,123,TRUE,2023-05-04,2023-05-05,2024-11-06,Territory4,City 4,State 4,Country4
+NOC5,Node5,D5,AD5,AD5,12,35,2345,324,23434,RT,RETAIL,C1,23,3213,23,213,C1,234,123,43,123,TRUE,2023-05-05,2023-05-06,2024-11-07,Territory5,City 5,State 5,Country5
+NOC6,Node6,D6,AD6,AD6,27,50,2345,324,23434,PL,Plant,C16,23,3213,23,213,C16,234,123,43,123,TRUE,2023-05-06,2023-05-07,2024-11-08,Territory6,City 6,State 6,Country6
+NOC7,Node7,D7,AD7,AD7,19,42,2345,324,23434,RT,RETAIL,C8,23,3213,23,213,C8,234,123,43,123,TRUE,2023-05-07,2023-05-08,2024-11-09,Territory7,City 7,State 7,Country7
+NOC8,Node8,D8,AD8,AD8,28,51,2345,324,23434,PL,Plant,C17,23,3213,23,213,C17,234,123,43,123,TRUE,2023-05-08,2023-05-09,2024-11-10,Territory8,City 8,State 8,Country8
+NOC9,Node9,D9,AD9,AD9,13,36,2345,324,23434,RT,RETAIL,C2,23,3213,23,213,C2,234,123,43,123,TRUE,2023-05-09,2023-05-10,2024-11-11,Territory9,City 9,State 9,Country9
+NOC10,Node10,D10,AD10,AD10,20,43,2345,324,23434,DC,DC,C9,23,3213,23,213,C9,234,123,43,123,TRUE,2023-05-10,2023-05-11,2024-11-12,Territory10,City 10,State 10,Country10

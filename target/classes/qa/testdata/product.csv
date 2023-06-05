@@ -1,0 +1,11 @@
+SKU Code,SKU Name,SKU Description,Like SKU Code,Like SKU Name,Like SKU Description,Channel Name,Channel Description,Unit Price,Unit Of Measure,Currency,Gross Margin Unit Pct,EBITDTA Unit PCT,Weight Unit Of Measure,Weight,Volume Unit Of Measure,Volume,Product Lifecycle Status,Lifecycle Start Date,Lifecycle Sunset Date,Lifecycle End Date,Product,Sub-Category,Category,Brand,Product Description,Sub-Category Description,Category Description,Brand Description
+SKUC1,SKUNE1,SKUD1,S1,SKU1,SKUD1,Retailer,Retailer,15,ml,$,33,34,g,44,ml,54,TRUE,2023-05-01,2023-05-02,2024-11-03,Product1,Subcat1,Catd1,Brand1,Pd1,SCD1,Catdd1,BRD1
+SKUC2,SKUNE2,SKUD2,S2,SKU2,SKUD2,Retailer,Retailer,13,ml,$,23,32,g,42,ml,56,TRUE,2023-05-02,2023-05-03,2024-11-04,Product2,Subcat2,Catd2,Brand2,Pd2,SCD2,Catdd2,BRD2
+SKUC3,SKUNE3,SKUD3,S3,SKU3,SKUD3,Retailer,Retailer,14,ml,$,37,33,g,43,ml,53,TRUE,2023-05-03,2023-05-04,2024-11-05,Product3,Subcat3,Catd3,Brand3,Pd3,SCD3,Catdd3,BRD3
+SKUC4,SKUNE4,SKUD4,S4,SKU4,SKUD4,Retailer,Retailer,17,ml,$,27,26,g,46,ml,52,TRUE,2023-05-04,2023-05-05,2024-11-06,Product4,Subcat4,Catd4,Brand4,Pd4,SCD4,Catdd4,BRD4
+SKUC5,SKUNE5,SKUD5,S5,SKU5,SKUD5,Retailer,Retailer,21,ml,$,35,40,g,50,ml,53,TRUE,2023-05-05,2023-05-06,2024-11-07,Product5,Subcat5,Catd5,Brand5,Pd5,SCD5,Catdd5,BRD5
+SKUC6,SKUNE6,SKUD6,S6,SKU6,SKUD6,E-Commerce,E-Commerce,12,ml,$,22,31,g,41,ml,51,TRUE,2023-05-06,2023-05-07,2024-11-08,Product6,Subcat6,Catd6,Brand6,Pd6,SCD6,Catdd6,BRD6
+SKUC7,SKUNE7,SKUD7,S7,SKU7,SKUD7,E-Commerce,E-Commerce,16,ml,$,34,35,g,45,ml,55,TRUE,2023-05-07,2023-05-08,2024-11-09,Product7,Subcat7,Catd7,Brand7,Pd7,SCD7,Catdd7,BRD7
+SKUC8,SKUNE8,SKUD8,S8,SKU8,SKUD8,E-Commerce,E-Commerce,19,ml,$,29,38,g,48,ml,58,TRUE,2023-05-08,2023-05-09,2024-11-10,Product8,Subcat8,Catd8,Brand8,Pd8,SCD8,Catdd8,BRD8
+SKUC9,SKUNE9,SKUD9,S9,SKU9,SKUD9,E-Commerce,E-Commerce,18,ml,$,31,37,g,47,ml,57,TRUE,2023-05-09,2023-05-10,2024-11-11,Product9,Subcat9,Catd9,Brand9,Pd9,SCD9,Catdd9,BRD9
+SKUC10,SKUNE10,SKUD10,S10,SKU10,SKUD10,E-Commerce,E-Commerce,20,ml,$,40,39,g,49,ml,59,TRUE,2023-05-10,2023-05-11,2024-11-12,Product10,Subcat10,Catd10,Brand10,Pd10,SCD10,Catdd10,BRD10
